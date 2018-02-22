@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519175280 source:c:\users\dell\desktop\brick\main.cpp
+	<iostream>
+	<Windows.h>
+	<cstdlib>
+	<stdlib.h>
+	<ctime>
+	<conio.h>
+
